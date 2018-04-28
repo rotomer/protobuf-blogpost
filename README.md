@@ -1,2 +1,2 @@
 # protobuf-blogpost
-Samples for the Protobuf blog post series
+Samples for the Protobuf blog post series.
